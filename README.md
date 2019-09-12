@@ -6,3 +6,4 @@ via some courses from another specialization Python 4
 Everyone. So, unfortunately, my response to the assignment 
 would be bound by my experience (or inexperience).
 
+
