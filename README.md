@@ -1,5 +1,5 @@
 # Python4ApppliedDS
-The  repository contains assignments and materials from the UMich specialization AppliedDSwithPython on Coursera
+The  repository contains assignments and materials from the UMich specialization [AppliedDSwithPython](https://www.coursera.org/specializations/data-science-python) on Coursera
 
 Previous to taking this course, I had had only some exposure to Python 
 via some courses from another specialization Python 4 
