@@ -1,11 +1,6 @@
 # Python4ApppliedDS
 The  repository contains assignments and materials from the UMich specialization AppliedDSwithPython on Coursera
 
-Previous to taking this course, I had had only some exposure to Python 
-via some courses from another specialization Python 4 
-Everyone. So, unfortunately, my response to the assignment 
-would be bound by my experience (or inexperience).
+This branch contains assignments for Course 2.
 
-Comments and Feedback are more than welcome. 
-
-Hope you find it useful.
+For other courses in the same specialization, check [here](https://github.com/TLI2958/Python4ApppliedDS/tree/master#python4apppliedds).
