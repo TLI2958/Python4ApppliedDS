@@ -12,7 +12,7 @@ Course 2: [Plotting](https://github.com/TLI2958/Python4ApppliedDS/tree/course2)
 
 Course 3: [AML](https://github.com/TLI2958/Python4ApppliedDS/tree/course3)
 
-Course 4: [Text](https://github.com/TLI2958/Python4ApppliedDS/blob/course4)
+Course 4: [Text](https://github.com/TLI2958/Python4ApppliedDS/tree/course4)
 
 Course 5: Pending...
 
