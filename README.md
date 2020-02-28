@@ -6,7 +6,7 @@ via some courses from another specialization Python 4
 Everyone. So, unfortunately, my response to the assignment 
 would be bound by my experience (or inexperience).
 
-Course 1: [Intro](https://github.com/TLI2958/Python4ApppliedDS/tree/course1)
+Course 1: [PDNP](https://github.com/TLI2958/Python4ApppliedDS/tree/course1)
 
 Course 2: [PYPLOT](https://github.com/TLI2958/Python4ApppliedDS/tree/course2)
 
