@@ -8,12 +8,12 @@ would be bound by my experience (or inexperience).
 
 Course 1: [Intro](https://github.com/TLI2958/Python4ApppliedDS/tree/course1)
 
-Course 2: [Plotting](https://github.com/TLI2958/Python4ApppliedDS/tree/course2)
+Course 2: [PYPLOT](https://github.com/TLI2958/Python4ApppliedDS/tree/course2)
 
-Course 3: [AML](https://github.com/TLI2958/Python4ApppliedDS/tree/course3)
+Course 3: [SKLEARN](https://github.com/TLI2958/Python4ApppliedDS/tree/course3)
 
-Course 4: [Text](https://github.com/TLI2958/Python4ApppliedDS/tree/course4)
+Course 4: [NLTK](https://github.com/TLI2958/Python4ApppliedDS/tree/course4)
 
-Course 5: [SocialNetwork](https://github.com/TLI2958/Python4ApppliedDS/tree/course5)
+Course 5: [NX](https://github.com/TLI2958/Python4ApppliedDS/tree/course5)
 
 Hope you find it useful.
