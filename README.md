@@ -16,4 +16,3 @@ Course 4: [NLTK](https://github.com/TLI2958/Python4ApppliedDS/tree/course4)
 
 Course 5: [NX](https://github.com/TLI2958/Python4ApppliedDS/tree/course5)
 
-Hope you find it useful.
